@@ -1,0 +1,2 @@
+# Telco_Churn
+We are dealing with a classification problem. Data set is of having 7043 observations and 21 variables. Discarded insignificant features(e.g. CustomerId). Removed highly correlated feature(e.g. Total Charges). Omitted missing values. Created Data partition or train-test split. Applied Logistic, Generalized Linear Model, Random Forest, Support Vector Machine, Knn. Compared the result. Found Logistic model as the best performer. Finally came up with significant features(cross-checked with p-value and VIF).
